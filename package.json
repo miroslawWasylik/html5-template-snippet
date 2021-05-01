@@ -1,0 +1,26 @@
+{
+    "name": "html5-template-snippet",
+    "displayName": "HTML5 Template Snippet",
+    "description": "Simple HTML5 Template Snippet, includes links, Google Fonts Pre Connect, Roboto font and a simple HTML structure",
+    "version": "0.0.1",
+    "author": {
+        "name": "Pietro Piva Vieira (Marechal Dev)",
+        "email": "pietro.developer@gmail.com",
+        "url": "https://github.com/marechal-dev"
+    },
+    "homepage": "https://github.com/marechal-dev/html5-template-snippet",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

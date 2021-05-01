@@ -1,0 +1,9 @@
+{
+  "Simple HTML5 Template": {
+		"prefix": "!!",
+		"body": [
+			"<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <!-- Google Fonts Pre Connect -->\r\n  <link rel=\"preconnect\" href=\"https:\/\/fonts.gstatic.com\">\r\n\r\n  <!-- Meta Tags -->\r\n  <meta charset=\"UTF-8\">\r\n  <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n\r\n  <!-- Fonts Links (Roboto 400, 500 and 700 included) -->\r\n  <link rel=\"stylesheet\" href=\"https:\/\/fonts.googleapis.com\/css2?family=Roboto:wght@400;500;700&display=swap\">\r\n\r\n  <!-- CSS Files Links -->\r\n  <link rel=\"stylesheet\" href=\".\/styles.css\">\r\n\r\n  <!-- Title -->\r\n  <title>Simple Page<\/title>\r\n<\/head>\r\n<body>\r\n  <header>\r\n    <h1>HTML5 Template<\/h1>\r\n  <\/header>\r\n\r\n  <main>\r\n    <p>This is a simple HTML5 Template<\/p>\r\n  <\/main>\r\n\r\n  <footer>\r\n    <p>HTML5 Template<\/p>\r\n  <\/footer>\r\n\r\n  <noscript>Your browser don't support JavaScript!<\/noscript>\r\n  <script src=\".\/scripts.js\"><\/script>\r\n<\/body>\r\n<\/html>"
+		],
+		"description": "Simple HTML5 Template.\n Made with 💜 by Marechal Dev (https://github.com/marechal-dev/html5-template-snippet)"
+	}
+}
