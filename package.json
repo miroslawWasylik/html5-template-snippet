@@ -1,8 +1,12 @@
 {
     "name": "html5-template-snippet",
+    "publisher": "marechal-dev",
+    "repository": {
+        "url": "https://github.com/marechal-dev/html5-template-snippet"
+    },
     "displayName": "HTML5 Template Snippet",
     "description": "Simple HTML5 Template Snippet, includes links, Google Fonts Pre Connect, Roboto font and a simple HTML structure",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "name": "Pietro Piva Vieira (Marechal Dev)",
         "email": "pietro.developer@gmail.com",
